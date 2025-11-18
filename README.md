@@ -60,7 +60,7 @@ Focused on NLP, ML, Speech Processing
 
 ### 📄 Resume
 
-You can download my resume [here(eventually](https://your-resume-link.com) for a full overview of my experience and education.
+You can download my resume [here(eventually)](https://your-resume-link.com) for a full overview of my experience and education.
 
 <!-- Bottom Banner -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=4a5c91&height=120&section=footer&fontColor=ffffff)
