@@ -60,7 +60,8 @@ Focused on NLP, ML, Speech Processing
 
 ### 📄 Resume
 
-You can download my resume [here]([https://your-resume-link.com](https://github.com/AD-Hull/AD-Hull/blob/main/Resume_122325.pdf)) for a full overview of my experience and education.
+You can download my resume [here](https://github.com/AD-Hull/AD-Hull/blob/main/Resume_122325.pdf) for a full overview of my experience and education.
+
 
 <!-- Bottom Banner -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=4a5c91&height=120&section=footer&fontColor=ffffff)
